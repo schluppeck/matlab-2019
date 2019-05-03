@@ -10,6 +10,22 @@ I captured two videos of the walk through of
 
 2. a psychtoolbox redo of something similar (with some additional discussion about how you could turn a script into a more modular thing, but breaking out "presenting a trial" into a separate function)
 
+>Note: this kind of works, but passing all the arguments in as individual
+>      arguments could be handled better (we did this as version 1.0 to get it
+>      to work... to REFACTOR this [make it better], I would consider passing in
+>      info that belongs together e.g. |xCenter, yCenter, ...| as a |struct|, so
+>      it is only ONE variable: in SCRIPT "package up" info thus...:
+
+```matlab
+  geom.xCenter = xCenter;
+  geom.yCenter = yCenter;
+  geom.baseRect = baseRect;
+  geom.screenXpixels = screenXpixels;
+  %etc...
+```
+>      this would mean only passing 1 variable in (which you can easily change around
+>      and pass back out of the function....)
+
 **NB!** you are also very welcome to look at the course material for my MSc Brain imaging module on *Matlab programming* (esp Timetable B version):
 
 - https://github.com/schluppeck/learningMatlab
