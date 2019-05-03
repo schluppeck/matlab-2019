@@ -1,6 +1,6 @@
 # matlab-2019
 
-a list of some worked solutions to the problem sets in the matlab 2019 course
+A selection of worked solutions to the problem sets in the matlab 2019 course (https://schluppeck.github.com/matlab).
 
 ## visual stimulus coding (day 3)
 
@@ -56,4 +56,8 @@ For the last two coding examples, here are the screen captures with comments. Ho
 
 ## Notes
 
-https://schluppeck.github.com/matlab
+- https://schluppeck.github.com/matlab
+- MGL: http://gru.stanford.edu/doku.php?id=mgl:overview
+- Psychtoolbox: http://psychtoolbox.org/
+- Matlab/Mathworks: https://uk.mathworks.com/
+
