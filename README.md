@@ -2,6 +2,10 @@
 
 A selection of worked solutions to the problem sets in the matlab 2019 course (https://schluppeck.github.com/matlab).
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">curve fitting (w/ app and code) ✔️<br>intro to visual stimuli (<a href="https://twitter.com/hashtag/MGL?src=hash&amp;ref_src=twsrc%5Etfw">#MGL</a> and <a href="https://twitter.com/hashtag/Psychtoolbox?src=hash&amp;ref_src=twsrc%5Etfw">#Psychtoolbox</a>) ✔️<br>etc etc ✔️<br>timing for making a <a href="https://twitter.com/hashtag/dab?src=hash&amp;ref_src=twsrc%5Etfw">#dab</a> when <a href="https://twitter.com/peircej?ref_src=twsrc%5Etfw">@peircej</a> pressed the shutter for photo 1 ❌.   2/3 <a href="https://t.co/V5Rgu4MKSQ">pic.twitter.com/V5Rgu4MKSQ</a></p>&mdash; Denis Schluppeck (@schluppeck) <a href="https://twitter.com/schluppeck/status/1124020255070748673?ref_src=twsrc%5Etfw">May 2, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## visual stimulus coding (day 3)
 
 I captured two videos of the walk through of
