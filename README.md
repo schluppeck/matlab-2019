@@ -2,9 +2,11 @@
 
 A selection of worked solutions to the problem sets in the matlab 2019 course (https://schluppeck.github.com/matlab).
 
-<a href="https://twitter.com/schluppeck/status/1124020237819633664" target="_new">
-<img src="./matlab-2019-twittercard.png" style="padding: 0 15px; float: left;" width="40%">
+<center>
+<a href="https://twitter.com/schluppeck/status/1124020237819633664" target=_new>
+<img src="./matlab-2019-twittercard.png" style="padding: 0 15px; box-shadow: 7px 7px grey;" width="40%">
 </a>
+</center>
 
 ## visual stimulus coding (day 3)
 
